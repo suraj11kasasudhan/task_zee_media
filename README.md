@@ -7,4 +7,5 @@ we are implementing these three task using python library
 3. how to fetch entities from text(Named Entitiy Recognition)
 
  
-pdf file assisiated with all three task as well as code implementation is there .
+PDF file assisiated with all three task as well as code implementation is there .
+
